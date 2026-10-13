@@ -39,5 +39,5 @@ pytest
 | Progettazione | *(da aggiungere: `docs/progettazione.md`)* |
 | Implementazione | `biobank/` (cronologia Git) |
 | Verifica | `tests/` + `docs/tracciabilita.md` |
-| Rilascio | tag Git `v1.0.0`, `CHANGELOG.md` |
-| Manutenzione | CR-01 → versione 1.1.0 |
+| Rilascio (pianificato) | tag Git `v1.0.0`, `CHANGELOG.md` |
+| Manutenzione (pianificato) | CR-01 → versione 1.1.0 |
